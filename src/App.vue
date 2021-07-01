@@ -1,5 +1,6 @@
 <template>
   <div>Hello {{ value }}</div>
+  <h1>HUMBLE</h1>
 </template>
 
 <script>
