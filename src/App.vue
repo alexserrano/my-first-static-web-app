@@ -1,6 +1,7 @@
 <template>
-  <div>Hello {{ value }}</div>
-  <h1>HUMBLE</h1>
+  <div>Hello {{ value }}
+     <h1>HUMBLE</h1>
+  </div>
 </template>
 
 <script>
